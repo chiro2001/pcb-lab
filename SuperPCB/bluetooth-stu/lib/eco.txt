@@ -1,0 +1,269 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd     |
+|                                                    Fri Jun 08 09:42:17 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  BTOSCI1      pins ADDED TO this new net
+                                 U1.23          Y1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BTOSCO1      pins ADDED TO this new net
+                                 U1.24          Y1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BT_ANT       pins ADDED TO this new net
+                                 C4.1           U1.21          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  BT_AVDD      pins ADDED TO this new net
+                                 C6.1           U1.19          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DAC          pins ADDED TO this new net
+                                 R20.2          U3.4           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DACVDD1      pins ADDED TO this new net
+                                 C7.2           U1.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DAC_R/L      pins ADDED TO this new net
+                                 C18.2          U1.7           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DC_5V        pins ADDED TO this new net
+                                 Q5.2           R39.1          USB1.1         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DGND         pins ADDED TO this new net
+                                 BT_ANT1.1      C5.1           C6.2           
+                                 C7.1           C8.1           C9.2           
+                                 C25.2          C27.2          C28.2          
+                                 J6.2           LED1.2         LED2.2         
+                                 Q4.2           R35.1          R38.1          
+                                 U1.11          U1.17          U1.20          
+                                 U1.22          U3.7           USB1.4         
+                                 USB1.5         USB1.6         USB1.7         
+                                 USB1.8         USB1.9         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DM           pins ADDED TO this new net
+                                 U1.3           USB1.2         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DP           pins ADDED TO this new net
+                                 U1.4           USB1.3         
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  LED          pins ADDED TO this new net
+                                 R29.2          U1.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  MUDE         pins ADDED TO this new net
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd     |
+|                                                    Fri Jun 08 09:42:17 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+                                 R38.2          U1.16          U3.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N147640      pins ADDED TO this new net
+                                 BT_ANT1.2      C4.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N151375      pins ADDED TO this new net
+                                 LED1.1         R29.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N151623      pins ADDED TO this new net
+                                 LED2.1         R31.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N157553      pins ADDED TO this new net
+                                 C25.1          U3.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N158041      pins ADDED TO this new net
+                                 C18.1          R20.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N783301      pins ADDED TO this new net
+                                 Q5.3           R31.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N783899      pins ADDED TO this new net
+                                 R33.2          R34.1          SW1.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N784406      pins ADDED TO this new net
+                                 Q4.3           Q6.1           R37.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N786813      pins ADDED TO this new net
+                                 D3.1           R39.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N788340      pins ADDED TO this new net
+                                 Q4.1           R33.1          R35.2          
+                                 R36.1          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N788995      pins ADDED TO this new net
+                                 Q5.1           R40.2          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  ON/OFF/PP    pins ADDED TO this new net
+                                 R34.2          U1.1           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  POWER_UP     pins ADDED TO this new net
+                                 R36.2          U1.2           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  SPKR+        pins ADDED TO this new net
+                                 J5.1           U3.8           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd     |
+|                                                    Fri Jun 08 09:42:17 2018  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |                net     pins                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  SPKR-        pins ADDED TO this new net
+                                 J5.2           U3.5           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBAT         pins ADDED TO this new net
+                                 C27.1          C28.1          D3.2           
+                                 J6.1           Q6.2           R37.1          
+                                 R40.1          SW1.2          U3.6           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VCOM1        pins ADDED TO this new net
+                                 C8.2           U1.9           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_3.3V_0   pins ADDED TO this new net
+                                 C9.1           U1.12          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VMCU         pins ADDED TO this new net
+                                 C5.2           Q6.3           U1.18          
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd     |
+|                                                    Fri Jun 08 09:42:17 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C0603A_0_SC0805_105
+ C0603A_0_SC0805_224
+ C0603A_0_SC0805_236
+ C0603A_0_SC0805_2.7PF
+ CON-PH-2-0_2_CON-PH-2-0_CON-PH-
+ CON-PH-2-0_2_CON-PH-2-0_CON-P_1
+ HEADER 1X1_8_ANT_BTANT
+ KEY2P_7_KEY2P_3X6-SMT_KEY2P_1
+ LED-0603_0_LED-0603_LED-0603
+ M475S_M475S_2_24M
+ QSOP24_0_QSOP24_QSOP24
+ R0603A_SR0805_100K
+ R0603A_SR0805_100R
+ R0603A_SR0805_10K
+ R0603A_SR0805_1K
+ R0603A_SR0805_2.2K
+ R0603A_SR0805_2R2
+ R0603A_SR0805_33K
+ SMA_SMA_SMA
+ SO8_0_SO8_SO8
+ SOT23-MOS_SOT23-123_2301
+ SOT23-PNP_SOT23-123_8850
+ SOT23-PNP_SOT23-123_9014
+ USB-MK5P_4_USB-MK5P_2_USB-MK5P
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd     |
+|                                                    Fri Jun 08 09:42:17 2018  |
+|------------------------------------------------------------------------------|
+| COMPONENTS ADDED to design                                                   |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BT_ANT1             HEADER 1X1_8_ANT_BTANT 
+ C4                  C0603A_0_SC0805_2.7PF 
+ C5                  C0603A_0_SC0805_105   
+ C6                  C0603A_0_SC0805_105   
+ C7                  C0603A_0_SC0805_105   
+ C8                  C0603A_0_SC0805_105   
+ C9                  C0603A_0_SC0805_105   
+ C18                 C0603A_0_SC0805_224   
+ C25                 C0603A_0_SC0805_105   
+ C27                 C0603A_0_SC0805_105   
+ C28                 C0603A_0_SC0805_236   
+ D3                  SMA_SMA_SMA           
+ J5                  CON-PH-2-0_2_CON-PH-2-0_CON-PH- 
+ J6                  CON-PH-2-0_2_CON-PH-2-0_CON-P_1 
+ LED1                LED-0603_0_LED-0603_LED-0603 
+ LED2                LED-0603_0_LED-0603_LED-0603 
+ Q4                  SOT23-PNP_SOT23-123_9014 
+ Q5                  SOT23-PNP_SOT23-123_8850 
+ Q6                  SOT23-MOS_SOT23-123_2301 
+ R20                 R0603A_SR0805_33K     
+ R29                 R0603A_SR0805_100R    
+ R31                 R0603A_SR0805_1K      
+ R33                 R0603A_SR0805_10K     
+ R34                 R0603A_SR0805_10K     
+ R35                 R0603A_SR0805_10K     
+ R36                 R0603A_SR0805_10K     
+ R37                 R0603A_SR0805_100K    
+ R38                 R0603A_SR0805_2.2K    
+ R39                 R0603A_SR0805_2R2     
+ R40                 R0603A_SR0805_100K    
+ SW1                 KEY2P_7_KEY2P_3X6-SMT_KEY2P_1 
+ U1                  QSOP24_0_QSOP24_QSOP24 
+ U3                  SO8_0_SO8_SO8         
+ USB1                USB-MK5P_4_USB-MK5P_2_USB-MK5P 
+ Y1                  M475S_M475S_2_24M     
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd     |
+|                                                    Fri Jun 08 09:42:17 2018  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ BT_ANT1.2                      PRIM_FILE      .\pstchip.dat
+ C4.2                           PRIM_FILE      .\pstchip.dat
+ C5.2                           PRIM_FILE      .\pstchip.dat
+ C6.2                           PRIM_FILE      .\pstchip.dat
+ C7.2                           PRIM_FILE      .\pstchip.dat
+ C8.2                           PRIM_FILE      .\pstchip.dat
+ C9.2                           PRIM_FILE      .\pstchip.dat
+ C18.2                          PRIM_FILE      .\pstchip.dat
+ C25.2                          PRIM_FILE      .\pstchip.dat
+ C27.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ D3.2                           PRIM_FILE      .\pstchip.dat
+ J5.2                           PRIM_FILE      .\pstchip.dat
+ J6.2                           PRIM_FILE      .\pstchip.dat
+ LED1.2                         PRIM_FILE      .\pstchip.dat
+ LED2.2                         PRIM_FILE      .\pstchip.dat
+ Q4.2                           PRIM_FILE      .\pstchip.dat
+ Q5.2                           PRIM_FILE      .\pstchip.dat
+ Q6.2                           PRIM_FILE      .\pstchip.dat
+ R20.2                          PRIM_FILE      .\pstchip.dat
+ R29.2                          PRIM_FILE      .\pstchip.dat
+ R31.2                          PRIM_FILE      .\pstchip.dat
+ R33.2                          PRIM_FILE      .\pstchip.dat
+ R34.2                          PRIM_FILE      .\pstchip.dat
+ R35.2                          PRIM_FILE      .\pstchip.dat
+ R36.2                          PRIM_FILE      .\pstchip.dat
+ R37.2                          PRIM_FILE      .\pstchip.dat
+ R38.2                          PRIM_FILE      .\pstchip.dat
+ R39.2                          PRIM_FILE      .\pstchip.dat
+ R40.2                          PRIM_FILE      .\pstchip.dat
+ SW1.2                          PRIM_FILE      .\pstchip.dat
+ U1.17                          PRIM_FILE      .\pstchip.dat
+ U3.6                           PRIM_FILE      .\pstchip.dat
+ USB1.5                         PRIM_FILE      .\pstchip.dat
+ Y1.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|   total ECO changes reported  196                                            |
+|------------------------------------------------------------------------------|

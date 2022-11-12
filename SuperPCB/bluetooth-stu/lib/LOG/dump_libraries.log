@@ -1,0 +1,233 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Dump Library Log                                                 )
+(                                                                     )
+(    Software Version : 16.6S050                                      )
+(    Date/Time        : Fri Jun 08 14:54:13 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+*** file: //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/BLUE_VB_PCB/BLUE_VB.brd ***
+
+
+
+  *** Creating all device files (see create_devices.log) ***
+
+
+  *** Creating padstacks. ***
+
+  THC0D80C1D30MM being dumped.
+
+  THC0D80S1D30MM being dumped.
+
+  VIA_0603 being dumped.
+
+  VIA_0805 being dumped.
+
+  THC0D30PAD0D90X0D50MM being dumped.
+
+  SMD33_45 being dumped.
+
+  SMD39_50 being dumped.
+
+  PAD53CIR28CIRD being dumped.
+
+  SMDF0D60X2D00MM being dumped.
+
+  SMDF0D35X2D00MM being dumped.
+
+  SMDF0D65X1D90MM being dumped.
+
+  SMDW0D50X3D00MM being dumped.
+
+  SMDW2D60X1D00MM being dumped.
+
+  SMDW5D00X0D50MM being dumped.
+
+  SMDW0D60X1D50MM being dumped.
+
+  SMDW0D50X2D50MM being dumped.
+
+  SMDW0D50X3D50MM being dumped.
+
+  SMDW2D30X1D80MM being dumped.
+
+  SMDW0D50X2D70MM being dumped.
+
+  SMDW0D50X4D50MM being dumped.
+
+  SMDW3D50X1D80MM being dumped.
+
+  SMDW0D90X4D50MM being dumped.
+
+  PAD1 being dumped.
+
+  PAD2 being dumped.
+
+  PAD3 being dumped.
+
+  PAD4 being dumped.
+
+  PAD5 being dumped.
+
+  PAD6 being dumped.
+
+  PAD7 being dumped.
+
+  PAD8 being dumped.
+
+  PAD9 being dumped.
+
+  THUC1D00MM being dumped.
+
+  SMDS2D00MM being dumped.
+
+  SMD20_58RE being dumped.
+
+  THUC0D80MM being dumped.
+
+  SMDS0D50MM being dumped.
+
+  THF0D70X1D20F1D60X2D00MM being dumped.
+
+  THF0D80X1D20F1D60X2D00MM being dumped.
+
+  PAD10 being dumped.
+
+  PAD11 being dumped.
+
+  PAD20 being dumped.
+
+  PAD12 being dumped.
+
+  PAD31 being dumped.
+
+  PAD40 being dumped.
+
+  PAD14 being dumped.
+
+  PAD23 being dumped.
+
+  PAD32 being dumped.
+
+  PAD41 being dumped.
+
+  PAD50 being dumped.
+
+  PAD15 being dumped.
+
+  PAD24 being dumped.
+
+  PAD42 being dumped.
+
+  PAD51 being dumped.
+
+  PAD60 being dumped.
+
+  PAD16 being dumped.
+
+  PAD34 being dumped.
+
+  PAD43 being dumped.
+
+  PAD52 being dumped.
+
+  PAD61 being dumped.
+
+  PAD26 being dumped.
+
+  PAD44 being dumped.
+
+  PAD62 being dumped.
+
+  PAD27 being dumped.
+
+  PAD36 being dumped.
+
+  PAD45 being dumped.
+
+  PAD63 being dumped.
+
+  PAD28 being dumped.
+
+  PAD37 being dumped.
+
+  PAD64 being dumped.
+
+  PAD46 being dumped.
+
+  PAD38 being dumped.
+
+  PAD47 being dumped.
+
+  PAD39 being dumped.
+
+  PAD48 being dumped.
+
+  PAD49 being dumped.
+
+  PAD59 being dumped.
+
+  PAD28_48OB58_78OBD being dumped.
+
+
+  *** Creating package symbols (.dra and .psm) ***
+
+  qsop24 being dumped.
+
+  led-0603 being dumped.
+
+  m475s_2 being dumped.
+
+  key2p_3x6-smt being dumped.
+
+  sot23-123 being dumped.
+
+  np being dumped.
+
+  con-ph-2-0 being dumped.
+
+  so8 being dumped.
+
+  sma being dumped.
+
+  ant being dumped.
+
+  usb-mk5p_2 being dumped.
+
+  sc0805 being dumped.
+
+  sr0805 being dumped.
+
+
+  *** Creating mechanical symbols (.dra and .bsm) ***
+
+  ash-bin being dumped.
+
+
+  *** Creating format symbols (.dra and .osm) ***
+
+  a4-hisi being dumped.
+
+  esd-0707 being dumped.
+
+  layer2a being dumped.
+
+  notesv2 being dumped.
+
+  pb-0707 being dumped.
+
+
+
+*********************** Summary *********************
+ERRORs reported:                           0
+
+Number of padstacks dumped:               77
+Number of package symbols dumped:         13
+Number of mechanical symbols dumped:       1
+Number of format symbols dumped:           5
+
+Total number of symbols dumped:           19
+*****************************************************
+

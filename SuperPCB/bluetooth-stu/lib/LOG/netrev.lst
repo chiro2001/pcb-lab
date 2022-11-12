@@ -1,0 +1,78 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : unnamed.brd                                   )
+(    Software Version : 16.6S050                                      )
+(    Date/Time        : Fri Jun 08 09:42:17 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  No
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'E:/blue/0608/sch/allegro'
+Design Directory:            '.'
+Old design name:             '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd'
+New design name:             '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/unnamed.brd'
+
+CmdLine: netrev -$ -i E:/blue/0608/sch/allegro -y 1 -z -q netrev_constraint_report.xml //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/#Taaaadv07660.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/blue/0608/sch/allegro/pstchip.dat 
+   Finished reading E:/blue/0608/sch/allegro/pstchip.dat (00:00:00.21)
+Starting to read E:/blue/0608/sch/allegro/pstxprt.dat 
+   Finished reading E:/blue/0608/sch/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/blue/0608/sch/allegro/pstxnet.dat 
+   Finished reading E:/blue/0608/sch/allegro/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/Cadence/SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  E:/blue/0608/lib 
+
+PADPATH =  E:/blue/0608/lib 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 8 9:42:17 2018
+   DESIGN NAME : 'BLUE_VB'
+   PACKAGING ON Oct 15 2014 05:53:32
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:48
+elapsed time  0:00:01
+

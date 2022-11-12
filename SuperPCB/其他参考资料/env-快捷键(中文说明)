@@ -1,0 +1,45 @@
+funckey A assign color      赋予颜色
+funckey a spin              旋转
+funckey B shape add         不规则铺铜
+funckey b change            修改
+funckey C copy              复制
+funckey c copy              复制
+funckey D delete            删除命令
+funckey d dehilight         取消高亮
+funckey E move              移动
+funckey e move              移动
+funckey F add connect       执行布线命令
+funckey f shape select      选择铜皮
+funckey G next              下一个命令
+funckey g Define grid       设置栅格
+funckey H cancel            取消当前命令
+funckey h hilight           高亮
+funckey I zoom in           放大窗口
+funckey J rats net          显示飞线
+funckey j rats net          显示飞线
+funckey K unrats net        关闭飞线
+funckey k unrats net        关闭飞线  
+funckey M mirror            镜像
+funckey m cmgr              打开约束管理器
+funckey N shape edit boundary 改变铜皮轮廓
+funckey n cns show          显示对象信息
+funckey O zoom out          缩小窗口
+funckey P property edit     相当于菜单edit-property
+funckey p property edit     相当于菜单edit-property
+funckey Q done              完成当前命令
+funckey q delay tune        蛇形走线
+funckey R iangle 90         旋转90度
+funckey r reports           相当于菜单tools-reports
+funckey S slide             改变单根布线
+funckey s spin              旋转
+funckey T swap components   交换器件
+funckey u status            相当于菜单display-status
+funckey U unrats all        隐藏所有飞线
+funckey V oops             取消前一次操作
+funckey W show element     显示属性
+funckey w show element     显示属性
+funckey X create fanout    扇出
+funckey Y rats all         显示所有飞线
+funckey y rats all         显示所有飞线
+funckey Z undo             撤销
+funckey z undo             撤销

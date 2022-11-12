@@ -1,0 +1,40 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : BLUE_VCFIX2022stu.brd                         )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Fri Nov 11 22:30:20 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/header1_id-board_header1.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/sot23-pnp_sot23-123_8850.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/r0603a_sr0805_33k.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/header1x1_8_ant_btant.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/c0603a_0_sc0805_224.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/c0603a_0_sc0805_105.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/c0603a_0_sc0805_236.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/c0603a_0_sc0805_27pf.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/sma_sma_sma.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/con-ph-2-0_2_con-ph-2-0_con-ph-.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/con-ph-2-0_2_con-ph-2-0_con-p_1.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/led-0603_0_led-0603_led-0603.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/sot23-pnp_sot23-123_9014.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/sot23-mos_sot23-123_2301.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/r0603a_sr0805_10k.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/r0603a_sr0805_100r.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/r0603a_sr0805_1k.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/r0603a_sr0805_100k.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/r0603a_sr0805_22k.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/r0603a_sr0805_2r2.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/key2p_7_key2p_3x6-smt_key2p_1.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/qsop24_0_qsop24_qsop24.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/so8_0_so8_so8.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/usb-mk5p_4_usb-mk5p_2_usb-mk5p.txt': written successfully.
+Device file 'D:/2022秋/教学/复杂印制电路板设计创新实验课/SuperPCB/bluetooth-stu/lib/m475s_m475s_2_24m.txt': written successfully.
+
+  Created device files: 25
+

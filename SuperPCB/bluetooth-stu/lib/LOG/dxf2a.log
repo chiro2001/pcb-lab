@@ -1,0 +1,122 @@
+Reading Layer Conversion File 
+Reading DXF file...
+NOTE: Replacing illegal character * with X in *Model_Space.
+NOTE: Replacing illegal character * with X in *Paper_Space.
+NOTE: Replacing illegal character * with X in *D8.
+NOTE: Replacing illegal character * with X in *D9.
+NOTE: Replacing illegal character * with X in *D10.
+NOTE: Replacing illegal character * with X in *D11.
+NOTE: Replacing illegal character * with X in *D12.
+NOTE: Replacing illegal character * with X in *D13.
+NOTE: Replacing illegal character * with X in *D14.
+NOTE: Replacing illegal character * with X in *D15.
+NOTE: Replacing illegal character * with X in *D16.
+NOTE: Replacing illegal character * with X in *D17.
+NOTE: Replacing illegal character * with X in *D18.
+NOTE: Replacing illegal character * with X in *D19.
+NOTE: Replacing illegal character * with X in *D20.
+NOTE: Replacing illegal character * with X in *D21.
+NOTE: Replacing illegal character * with X in *D22.
+NOTE: Replacing illegal character * with X in *D23.
+NOTE: Replacing illegal character * with X in *D24.
+NOTE: Replacing illegal character * with X in *D25.
+NOTE: Replacing illegal character * with X in *D26.
+NOTE: Replacing illegal character * with X in *D27.
+NOTE: Replacing illegal character * with X in *D28.
+NOTE: Replacing illegal character * with X in *D8.
+NOTE: Replacing illegal character * with X in *D10.
+NOTE: Replacing illegal character * with X in *D11.
+NOTE: Replacing illegal character * with X in *D12.
+NOTE: Replacing illegal character * with X in *D13.
+NOTE: Replacing illegal character * with X in *D14.
+NOTE: Replacing illegal character * with X in *D17.
+NOTE: Replacing illegal character * with X in *D18.
+NOTE: Replacing illegal character * with X in *D21.
+NOTE: Replacing illegal character * with X in *D22.
+NOTE: Replacing illegal character * with X in *D23.
+NOTE: Replacing illegal character * with X in *D24.
+NOTE: Replacing illegal character * with X in *D25.
+NOTE: Replacing illegal character * with X in *D26.
+NOTE: Replacing illegal character * with X in *D27.
+NOTE: Replacing illegal character * with X in *D28.
+done.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+WARNING: DXF Elements are outside the design extents.
+Incresing the extents to accomodate these entities.
+DXF entities may be out of their desired positions.
+NOTE: Ignoring unsupported element POINT on line 2760.
+NOTE: Ignoring unsupported element POINT on line 2782.
+NOTE: Ignoring unsupported element POINT on line 2804.
+NOTE: Ignoring unsupported element POINT on line 3226.
+NOTE: Ignoring unsupported element POINT on line 3248.
+NOTE: Ignoring unsupported element POINT on line 3270.
+NOTE: Ignoring unsupported element POINT on line 3456.
+NOTE: Ignoring unsupported element POINT on line 3478.
+NOTE: Ignoring unsupported element POINT on line 3500.
+NOTE: Ignoring unsupported element POINT on line 3692.
+NOTE: Ignoring unsupported element POINT on line 3714.
+NOTE: Ignoring unsupported element POINT on line 3736.
+NOTE: Ignoring unsupported element POINT on line 3922.
+NOTE: Ignoring unsupported element POINT on line 3944.
+NOTE: Ignoring unsupported element POINT on line 3966.
+NOTE: Ignoring unsupported element POINT on line 4262.
+NOTE: Ignoring unsupported element POINT on line 4284.
+NOTE: Ignoring unsupported element POINT on line 4306.
+NOTE: Ignoring unsupported element POINT on line 5028.
+NOTE: Ignoring unsupported element POINT on line 5050.
+NOTE: Ignoring unsupported element POINT on line 5346.
+NOTE: Ignoring unsupported element POINT on line 5368.
+NOTE: Ignoring unsupported element POINT on line 5390.
+NOTE: Ignoring unsupported element POINT on line 6054.
+NOTE: Ignoring unsupported element POINT on line 6076.
+NOTE: Ignoring unsupported element POINT on line 6098.
+NOTE: Ignoring unsupported element POINT on line 6284.
+NOTE: Ignoring unsupported element POINT on line 6306.
+NOTE: Ignoring unsupported element POINT on line 6328.
+NOTE: Ignoring unsupported element POINT on line 6520.
+NOTE: Ignoring unsupported element POINT on line 6542.
+NOTE: Ignoring unsupported element POINT on line 6564.
+NOTE: Ignoring unsupported element POINT on line 6750.
+NOTE: Ignoring unsupported element POINT on line 6772.
+NOTE: Ignoring unsupported element POINT on line 6794.
+NOTE: Ignoring unsupported element POINT on line 7090.
+NOTE: Ignoring unsupported element POINT on line 7112.
+NOTE: Ignoring unsupported element POINT on line 7134.
+NOTE: Ignoring unsupported element POINT on line 7430.
+NOTE: Ignoring unsupported element POINT on line 7452.
+NOTE: Ignoring unsupported element POINT on line 7474.
+NOTE: Ignoring unsupported element POINT on line 7770.
+NOTE: Ignoring unsupported element POINT on line 7792.
+NOTE: Ignoring unsupported element POINT on line 7814.
+NOTE: Ignoring unsupported element POINT on line 8110.
+NOTE: Ignoring unsupported element POINT on line 8132.
+NOTE: Ignoring unsupported element POINT on line 8154.
+Layer conversion file: E:/blue/0608/dxf/blue_l.cnv
+DXF file: E:/blue/0608/dxf/blue.dxf
+BRD file: #Taaaadx07660.tmp
+Update existing design?: YES
+Use default text?: YES
+DXF units: MILLIMETERS
+Design units: MILS
+Design precision: 1
+dxf2a complete.

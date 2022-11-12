@@ -1,0 +1,17 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Sat Nov 12 14:56:56 2022
+\t (00:00:04)         Host=DESKTOP-VEIERJE User=Administrator Pid=9840 CPUs=4
+\t (00:00:04) 
+\t (00:00:05) Starting new design...
+\i (00:00:05) trapsize 653
+\i (00:00:05) trapsize 641
+\i (00:00:05) trapsize 655
+\i (00:00:06) trapsize 763
+\i (00:00:06) trapsize 1059
+\i (00:00:07) generaledit 
+\i (00:00:08) open 
+\i (00:00:14) fillin "D:\2022秋\教学\复杂印制电路板设计创新实验课\SuperPCB\4layers\4layer-Setup.brd"
+\i (00:00:14) cd "D:\2022秋\教学\复杂印制电路板设计创新实验课\SuperPCB\4layers"
+\t (00:00:14) Opening existing design...
+\i (00:00:14) trapsize 1226
+\t (00:00:14)     Journal end - Sat Nov 12 14:57:06 2022

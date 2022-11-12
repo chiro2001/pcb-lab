@@ -1,0 +1,146 @@
+\t (00:00:25) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:25)     Journal start - Mon Nov 07 11:25:41 2022
+\t (00:00:25)         Host=DESKTOP-VEIERJE User=Administrator Pid=19680 CPUs=4
+\t (00:00:25) 
+\t (00:00:29) Starting new design...
+\i (00:00:31) trapsize 653
+\i (00:00:31) trapsize 641
+\i (00:00:31) trapsize 655
+\i (00:00:32) trapsize 763
+\i (00:00:32) trapsize 1059
+\i (00:00:36) open 
+\i (00:00:47) fillin "usb-mk5p.dra"
+\t (00:00:47) Opening existing design...
+\i (00:00:48) trapsize 497
+\i (00:00:48) trapsize 484
+\i (00:00:49) trapsize 497
+\i (00:00:50) trapsize 498
+\i (00:00:50) trapsize 498
+\d (00:00:51) Database opened: D:/2022秋/教学/复杂印制电路板设计创新实验课/bluetoothproject-stu/usb-mk5p-图纸及错误封装/usb-mk5p.dra
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 3.73 -99.06
+\i (00:00:56) trapsize 249
+\i (00:00:56) zoom out 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom out 3.73 -102.55
+\i (00:00:56) trapsize 498
+\i (00:00:57) generaledit 
+\i (00:00:57) zoom out 1 
+\i (00:00:57) setwindow pcb
+\i (00:00:57) zoom out 7.70 -109.51
+\i (00:00:57) trapsize 996
+\i (00:00:58) zoom in 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom in 336.73 -91.59
+\i (00:00:58) trapsize 498
+\i (00:00:58) zoom out 1 
+\i (00:00:58) setwindow pcb
+\i (00:00:58) zoom out 391.52 -86.61
+\i (00:00:58) trapsize 996
+\i (00:01:03) zoom in 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom in 430.37 -72.66
+\i (00:01:04) trapsize 498
+\i (00:01:08) delete 
+\i (00:01:10) setwindow form.find
+\i (00:01:10) FORM find all_off  
+\i (00:01:11) FORM find text YES 
+\i (00:01:12) setwindow pcb
+\i (00:01:12) pick grid 414.44 20.98
+\t (00:01:12) last pick:  414.40  21.00
+\t (00:01:12) Text "Oblong Via 28X48mil"
+\i (00:01:12) pick grid dbl 414.44 20.98
+\t (00:01:12) last pick:  414.40  21.00
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 53.85 11.02
+\i (00:01:15) trapsize 249
+\i (00:01:15) zoom out 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom out 159.93 11.02
+\i (00:01:15) trapsize 498
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in -159.82 -28.82
+\i (00:01:16) trapsize 249
+\i (00:01:16) zoom in 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom in -158.83 -28.32
+\i (00:01:16) trapsize 125
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out -133.68 -15.62
+\i (00:01:16) trapsize 249
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out -107.28 -7.15
+\i (00:01:17) trapsize 498
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in -68.44 -75.88
+\i (00:01:17) trapsize 249
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 38.15 -80.86
+\i (00:01:19) trapsize 498
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 62.05 160.21
+\i (00:01:20) trapsize 996
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 324.82 156.23
+\i (00:01:20) trapsize 1590
+\i (00:01:21) prepopup 495.92 311.48
+\i (00:01:22) done 
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in -149.59 -130.52
+\i (00:01:23) trapsize 795
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in -416.70 -70.10
+\i (00:01:23) trapsize 397
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in -26.37 -31.94
+\i (00:01:24) trapsize 199
+\i (00:01:24) generaledit 
+\i (00:01:24) zoom out 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom out -151.98 -31.15
+\i (00:01:24) trapsize 397
+\i (00:01:25) zoom in 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom in -29.55 -16.84
+\i (00:01:25) trapsize 199
+\i (00:01:32) show measure 
+\i (00:01:33) pick grid -85.19 -96.73
+\t (00:01:33) last pick:  -85.20  -96.70
+\i (00:01:35) pick grid 98.44 -93.15
+\t (00:01:35) last pick:  98.40  -93.10
+\i (00:01:38) pick grid -85.19 -98.71
+\t (00:01:38) last pick:  -85.20  -98.70
+\i (00:01:39) pick grid -85.59 -148.40
+\t (00:01:39) last pick:  -85.60  -148.40
+\i (00:01:41) pick grid -84.40 -98.71
+\t (00:01:41) last pick:  -84.40  -98.70
+\i (00:01:42) pick grid 105.20 -93.55
+\t (00:01:42) last pick:  105.20  -93.50
+\i (00:01:46) pick grid -81.62 -99.11
+\t (00:01:46) last pick:  -81.60  -99.10
+\i (00:01:47) pick grid -87.98 -146.81
+\t (00:01:47) last pick:  -88.00  -146.80
+\i (00:01:59) exit 
+\e (00:02:00) Do you want to save the changes you made to usb-mk5p.dra?
+\i (00:02:03) fillin menu_cancel 
+\i (00:02:04) generaledit 
+\i (00:02:04) open 
+\e (00:02:05) Do you want to save the changes you made to usb-mk5p.dra?
+\i (00:02:07) fillin no 
+\i (00:02:24) fillin "D:\2022秋\教学\复杂印制电路板设计创新实验课\bluetoothproject-老师自用\lib\usb-mk5p_2.dra"
+\i (00:02:24) cd "D:\2022秋\教学\复杂印制电路板设计创新实验课\bluetoothproject-老师自用\lib"
+\t (00:02:24) Opening existing design...
+\i (00:02:24) trapsize 397
+\t (00:02:25)     Journal end - Mon Nov 07 11:27:41 2022

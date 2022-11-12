@@ -1,0 +1,43 @@
+\t (00:00:04) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:04)     Journal start - Mon Nov 07 09:23:22 2022
+\t (00:00:04)         Host=DESKTOP-VEIERJE User=Administrator Pid=21332 CPUs=4
+\t (00:00:04) 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Database opened: F:/PCBdata/workspace/BLUETOOTH1/lib/usb-mk5p_2.dra
+\i (00:00:09) trapsize 339
+\i (00:00:09) trapsize 333
+\i (00:00:09) trapsize 340
+\i (00:00:10) trapsize 397
+\i (00:00:11) trapsize 397
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -99.51 228.02
+\i (00:00:13) trapsize 795
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 133.41 -142.43
+\i (00:00:13) trapsize 397
+\i (00:00:16) generaledit 
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in -124.15 1.47
+\i (00:00:16) trapsize 199
+\i (00:00:17) zoom in 1 
+\i (00:00:17) setwindow pcb
+\i (00:00:17) zoom in -128.92 5.84
+\i (00:00:17) trapsize 99
+\i (00:00:19) zoom out 1 
+\i (00:00:19) setwindow pcb
+\i (00:00:19) zoom out -128.93 5.84
+\i (00:00:19) trapsize 199
+\i (00:00:22) open 
+\i (00:00:41) fillin "F:\PCBdata\workspace\BLUETOOTH1\pcb\BLUE_VCFIX2022.brd"
+\i (00:00:41) cd "F:\PCBdata\workspace\BLUETOOTH1\pcb"
+\t (00:00:41) Opening existing design...
+\t (00:00:42) Grids are drawn 16.00, 16.00 apart for enhanced viewability.
+\i (00:00:42) trapsize 864
+\i (00:00:42) trapsize 841
+\i (00:00:43) trapsize 864
+\i (00:00:44) trapsize 861
+\i (00:00:44) trapsize 873
+\t (00:00:45)     Journal end - Mon Nov 07 09:24:03 2022

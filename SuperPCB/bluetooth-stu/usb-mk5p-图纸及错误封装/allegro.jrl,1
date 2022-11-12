@@ -1,0 +1,88 @@
+\t (00:01:20) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:01:20)     Journal start - Mon Nov 07 11:24:19 2022
+\t (00:01:20)         Host=DESKTOP-VEIERJE User=Administrator Pid=18828 CPUs=4
+\t (00:01:20) 
+\d (00:01:20) Database opened: D:/2022秋/教学/复杂印制电路板设计创新实验课/bluetoothproject-stu/usb-mk5p-图纸及错误封装/usb-mk5p_2.dra
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out -154.36 83.34
+\i (00:01:22) trapsize 795
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 208.14 84.93
+\i (00:01:22) trapsize 1590
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in 206.55 -213.19
+\i (00:01:23) trapsize 795
+\i (00:01:23) zoom in 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom in -305.41 -206.83
+\i (00:01:23) trapsize 397
+\i (00:01:23) zoom out 1 
+\i (00:01:23) setwindow pcb
+\i (00:01:23) zoom out -180.59 -169.46
+\i (00:01:23) trapsize 795
+\i (00:01:26) generaledit 
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in -17.63 -24.79
+\i (00:01:26) trapsize 397
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out -17.63 -25.58
+\i (00:01:27) trapsize 795
+\i (00:01:27) zoom in 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom in 14.18 133.42
+\i (00:01:27) trapsize 397
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 13.39 129.44
+\i (00:01:28) trapsize 795
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 7.03 111.96
+\i (00:01:28) trapsize 1590
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 915.66 483.20
+\i (00:01:28) trapsize 1590
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in 98.43 -35.12
+\i (00:01:29) trapsize 795
+\i (00:01:29) zoom in 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom in -381.72 -78.05
+\i (00:01:29) trapsize 397
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in 104.80 -31.14
+\i (00:01:30) trapsize 199
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 96.85 -36.71
+\i (00:01:30) trapsize 397
+\i (00:01:31) zoom in 1 
+\i (00:01:31) setwindow pcb
+\i (00:01:31) zoom in -16.04 -97.12
+\i (00:01:31) trapsize 199
+\i (00:01:35) zoom out 1 
+\i (00:01:35) setwindow pcb
+\i (00:01:35) zoom out -64.93 -80.82
+\i (00:01:35) trapsize 397
+\i (00:01:35) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out -64.92 -80.82
+\i (00:01:36) trapsize 795
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 28.47 -80.81
+\i (00:01:38) trapsize 397
+\i (00:01:38) zoom in 1 
+\i (00:01:38) setwindow pcb
+\i (00:01:38) zoom in 26.09 -81.60
+\i (00:01:38) trapsize 199
+\i (00:01:40) exit 
+\t (00:01:41)     Journal end - Mon Nov 07 11:24:40 2022

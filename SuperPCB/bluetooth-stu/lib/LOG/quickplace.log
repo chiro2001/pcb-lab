@@ -1,0 +1,54 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : unnamed.brd                                   )
+(    Software Version : 16.6S050                                      )
+(    Date/Time        : Fri Jun 08 09:45:03 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U1 / QSOP24_0_QSOP24_QSOP24 / QSOP24 at (37.6 1675.2)
+         Placed symbol:  USB1 / USB-MK5P_4_USB-MK5P_2_USB-MK5P / USB-MK5P_2 at (486.4 1552.9)
+         Placed symbol:  U3 / SO8_0_SO8_SO8 / SO8 at (780.0 1535.6)
+         Placed symbol:  Q4 / SOT23-PNP_SOT23-123_9014 / SOT23-123 at (943.5 1458.8)
+         Placed symbol:  Q5 / SOT23-PNP_SOT23-123_8850 / SOT23-123 at (1065.7 1458.8)
+         Placed symbol:  Q6 / SOT23-MOS_SOT23-123_2301 / SOT23-123 at (1187.9 1458.8)
+         Placed symbol:  C7 / C0603A_0_SC0805_105 / SC0805 at (1307.5 1419.9)
+         Placed symbol:  C8 / C0603A_0_SC0805_105 / SC0805 at (1424.5 1419.9)
+         Placed symbol:  C9 / C0603A_0_SC0805_105 / SC0805 at (1541.5 1419.9)
+         Placed symbol:  C28 / C0603A_0_SC0805_236 / SC0805 at (1658.5 1419.9)
+         Placed symbol:  C4 / C0603A_0_SC0805_2.7PF / SC0805 at (1775.5 1419.9)
+         Placed symbol:  J5 / CON-PH-2-0_2_CON-PH-2-0_CON-PH- / CON-PH-2-0 at (1912.8 1427.4)
+         Placed symbol:  D3 / SMA_SMA_SMA / SMA at (56.6 1757.0)
+         Placed symbol:  J6 / CON-PH-2-0_2_CON-PH-2-0_CON-P_1 / CON-PH-2-0 at (366.4 1743.7)
+         Placed symbol:  LED1 / LED-0603_0_LED-0603_LED-0603 / LED-0603 at (498.4 1725.9)
+         Placed symbol:  LED2 / LED-0603_0_LED-0603_LED-0603 / LED-0603 at (604.8 1725.9)
+         Placed symbol:  C5 / C0603A_0_SC0805_105 / SC0805 at (716.5 1736.2)
+         Placed symbol:  C27 / C0603A_0_SC0805_105 / SC0805 at (833.5 1736.2)
+         Placed symbol:  C6 / C0603A_0_SC0805_105 / SC0805 at (950.5 1736.2)
+         Placed symbol:  R20 / R0603A_SR0805_33K / SR0805 at (1069.0 1733.7)
+         Placed symbol:  R29 / R0603A_SR0805_100R / SR0805 at (1189.0 1733.7)
+         Placed symbol:  R31 / R0603A_SR0805_1K / SR0805 at (1309.0 1733.7)
+         Placed symbol:  R33 / R0603A_SR0805_10K / SR0805 at (1429.0 1733.7)
+         Placed symbol:  R34 / R0603A_SR0805_10K / SR0805 at (1549.0 1733.7)
+         Placed symbol:  R35 / R0603A_SR0805_10K / SR0805 at (1669.0 1733.7)
+         Placed symbol:  R36 / R0603A_SR0805_10K / SR0805 at (1789.0 1733.7)
+         Placed symbol:  R37 / R0603A_SR0805_100K / SR0805 at (1909.0 1733.7)
+         Placed symbol:  R40 / R0603A_SR0805_100K / SR0805 at (2029.0 1733.7)
+         Placed symbol:  R38 / R0603A_SR0805_2.2K / SR0805 at (64.0 1840.1)
+         Placed symbol:  R39 / R0603A_SR0805_2R2 / SR0805 at (184.0 1840.1)
+         Placed symbol:  SW1 / KEY2P_7_KEY2P_3X6-SMT_KEY2P_1 / KEY2P_3X6-SMT at (377.9 1879.6)
+         Placed symbol:  C25 / C0603A_0_SC0805_105 / SC0805 at (570.3 1842.6)
+         Placed symbol:  C18 / C0603A_0_SC0805_224 / SC0805 at (687.3 1842.6)
+         Placed symbol:  BT_ANT1 / HEADER 1X1_8_ANT_BTANT / ANT at (1301.0 1839.2)
+         Placed symbol:  Y1 / M475S_M475S_2_24M / M475S_2 at (1522.9 1893.3)
+
+
+Placed 35 of 35 applicable (35 total) symbols.
+
+-----------------------------------------------------------------------
+

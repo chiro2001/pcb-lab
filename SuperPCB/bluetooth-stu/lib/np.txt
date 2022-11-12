@@ -1,0 +1,11 @@
+(DEVICE FILE: np)
+
+PACKAGE np
+CLASS IC
+PINCOUNT 1
+
+PINORDER np  1
+
+FUNCTION np np  1
+
+END

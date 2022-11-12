@@ -1,0 +1,14 @@
+{ Using PSTWRITER 16.6.0 d001Nov-11-2022 at 22:48:32 }
+
+#1 WARNING(ORCAP-36006): Part Name "CON-PH-2-0_2_CON-PH-2-0_CON-PH-2-0_0" is renamed to "CON-PH-2-0_2_CON-PH-2-0_CON-PH-".
+#2 WARNING(ORCAP-36006): Part Name "CON-PH-2-0_2_CON-PH-2-0_CON-PH-2-0" is renamed to "CON-PH-2-0_2_CON-PH-2-0_CON-P_1".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\2022秋\教学\复杂印制电路板设计创新实验课\SUPERPCB\BLUETOOTH-STU\SCH\allegro/pstchip.dat
+
+Loading... D:\2022秋\教学\复杂印制电路板设计创新实验课\SUPERPCB\BLUETOOTH-STU\SCH\allegro/pstchip.dat
+
+Loading... D:\2022秋\教学\复杂印制电路板设计创新实验课\SUPERPCB\BLUETOOTH-STU\SCH\allegro/pstxprt.dat
+
+Loading... D:\2022秋\教学\复杂印制电路板设计创新实验课\SUPERPCB\BLUETOOTH-STU\SCH\allegro/pstxnet.dat
+packaging the design view...

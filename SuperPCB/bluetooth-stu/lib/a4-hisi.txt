@@ -1,0 +1,11 @@
+(DEVICE FILE: a4-hisi)
+
+PACKAGE a4-hisi
+CLASS IC
+PINCOUNT 0
+
+PINORDER a4-hisi 
+
+FUNCTION a4-hisi a4-hisi 
+
+END

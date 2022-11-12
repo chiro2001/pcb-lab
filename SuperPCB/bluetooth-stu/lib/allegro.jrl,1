@@ -1,0 +1,82 @@
+\t (00:13:18) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:13:18)     Journal start - Mon Nov 07 09:22:36 2022
+\t (00:13:18)         Host=DESKTOP-VEIERJE User=Administrator Pid=14932 CPUs=4
+\t (00:13:18) 
+\d (00:13:18) Database opened: F:/PCBdata/workspace/BLUETOOTH1/lib/usb-mk5p_2.dra
+\i (00:13:20) zoom in 1 
+\i (00:13:20) setwindow pcb
+\i (00:13:20) zoom in 98.73 -56.10
+\i (00:13:20) trapsize 414
+\i (00:13:20) zoom in 1 
+\i (00:13:20) setwindow pcb
+\i (00:13:20) zoom in 98.73 -56.09
+\i (00:13:20) trapsize 207
+\i (00:13:21) zoom out 1 
+\i (00:13:21) setwindow pcb
+\i (00:13:21) zoom out 98.73 -56.09
+\i (00:13:21) trapsize 414
+\i (00:13:23) generaledit 
+\i (00:13:24) zoom out 1 
+\i (00:13:24) setwindow pcb
+\i (00:13:24) zoom out 169.94 4.35
+\i (00:13:24) trapsize 828
+\i (00:13:26) zoom in 1 
+\i (00:13:26) setwindow pcb
+\i (00:13:26) zoom in 289.15 -2.28
+\i (00:13:26) trapsize 414
+\i (00:13:27) zoom out 1 
+\i (00:13:28) setwindow pcb
+\i (00:13:28) zoom out -5.59 30.84
+\i (00:13:28) trapsize 828
+\i (00:13:31) delete 
+\i (00:13:33) setwindow form.find
+\i (00:13:33) FORM find all_off  
+\i (00:13:36) FORM find text YES 
+\i (00:13:37) setwindow pcb
+\i (00:13:37) pick grid 416.66 4.35
+\t (00:13:37) last pick:  425.00  0.00
+\t (00:13:37) Text "Oblong Via 28X48mil"
+\i (00:13:37) pick grid dbl 416.66 4.35
+\t (00:13:37) last pick:  425.00  0.00
+\i (00:13:40) setwindow form.find
+\i (00:13:40) FORM find text NO 
+\i (00:13:41) FORM find lines YES 
+\i (00:13:42) setwindow pcb
+\i (00:13:42) pick grid 280.87 57.34
+\t (00:13:42) last pick:  275.00  50.00
+\t (00:13:42) Line "Board Geometry/Dimension"
+\i (00:13:43) pick grid dbl 280.87 57.34
+\t (00:13:43) last pick:  275.00  50.00
+\i (00:13:44) pick grid 295.78 -22.15
+\t (00:13:44) last pick:  300.00  -25.00
+\t (00:13:44) Line "Board Geometry/Dimension"
+\i (00:13:44) pick grid dbl 295.78 -22.15
+\t (00:13:44) last pick:  300.00  -25.00
+\i (00:13:45) prepopup 290.81 -18.83
+\i (00:13:46) done 
+\i (00:13:47) zoom out 1 
+\i (00:13:47) setwindow pcb
+\i (00:13:47) zoom out 194.77 67.27
+\i (00:13:47) trapsize 1590
+\i (00:13:47) generaledit 
+\i (00:13:48) zoom in 1 
+\i (00:13:48) setwindow pcb
+\i (00:13:48) zoom in -308.59 181.11
+\i (00:13:48) trapsize 795
+\i (00:13:48) zoom in 1 
+\i (00:13:48) setwindow pcb
+\i (00:13:48) zoom in -567.74 177.94
+\i (00:13:48) trapsize 397
+\i (00:13:48) zoom out 1 
+\i (00:13:48) setwindow pcb
+\i (00:13:48) zoom out -556.61 172.37
+\i (00:13:48) trapsize 795
+\i (00:13:50) zoom in 1 
+\i (00:13:50) setwindow pcb
+\i (00:13:50) zoom in -540.72 104.01
+\i (00:13:50) trapsize 397
+\i (00:13:52) save 
+\i (00:13:54) fillin yes 
+\t (00:13:56) Symbol 'usb-mk5p_2.psm' created.
+\i (00:13:57) exit 
+\t (00:13:58)     Journal end - Mon Nov 07 09:23:15 2022

@@ -1,0 +1,38 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Create_devices LOG file                                          )
+(                                                                     )
+(    Drawing          : BLUE_VB.brd                                   )
+(    Software Version : 16.6S050                                      )
+(    Date/Time        : Fri Jun 08 14:54:14 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/header1x1_8_ant_btant.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/c0603a_0_sc0805_224.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/c0603a_0_sc0805_105.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/c0603a_0_sc0805_236.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/c0603a_0_sc0805_27pf.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/sma_sma_sma.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/con-ph-2-0_2_con-ph-2-0_con-ph-.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/con-ph-2-0_2_con-ph-2-0_con-p_1.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/led-0603_0_led-0603_led-0603.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/sot23-pnp_sot23-123_9014.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/sot23-pnp_sot23-123_sot23-pnp.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/sot23-mos_sot23-123_2301.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/r0603a_sr0805_10k.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/r0603a_sr0805_100r.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/r0603a_sr0805_1k.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/r0603a_sr0805_100k.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/r0603a_sr0805_22k.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/r0603a_sr0805_2r2.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/key2p_7_key2p_3x6-smt_key2p_1.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/qsop24_0_qsop24_qsop24.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/so8_0_so8_so8.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/usb-mk5p_4_usb-mk5p_2_usb-mk5p.txt': written successfully.
+Device file '//192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/m475s_m475s_2_24m.txt': written successfully.
+
+  Created device files: 23
+

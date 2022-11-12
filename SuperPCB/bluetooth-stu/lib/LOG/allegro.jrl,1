@@ -1,0 +1,17 @@
+\t (00:00:05) allegro 16.6 S050 (v16-6-112DX) Windows 32
+\t (00:00:05)     Journal start - Fri Jun 08 09:26:33 2018
+\t (00:00:05)         Host=JIANGWEIPENG User=Administrator Pid=5136 CPUs=4
+\t (00:00:05) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe \\192.168.100.159\课程开发\2.高速pcb设计案例式教材\blue\lib\so8.dra
+\t (00:00:05) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: //192.168.100.159/课程开发/2.高速pcb设计案例式教材/blue/lib/so8.dra
+\i (00:00:07) trapsize 45
+\i (00:00:07) trapsize 44
+\i (00:00:07) trapsize 45
+\i (00:00:07) trapsize 53
+\i (00:00:07) trapsize 92
+\i (00:00:10) trapsize 133
+\t (00:00:11) EDA365 Skill Loaded Successful!
+\t (00:00:11) >>EDA365 Skill V2.2 Loaded Successfully!
+\i (00:00:15) exit 
+\t (00:00:16)     Journal end - Fri Jun 08 09:26:44 2018
