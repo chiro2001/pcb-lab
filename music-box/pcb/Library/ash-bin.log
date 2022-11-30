@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ash-bin.dra                                   )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sun Nov 27 02:48:51 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: MECHANICAL
+    Directory = C:/Users/hans/Documents/PCB/BluetoothBoard/Library
+    Name      = ash-bin.bsm
+    User      = hans
+    Machine   = HANS-THINKPAD
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

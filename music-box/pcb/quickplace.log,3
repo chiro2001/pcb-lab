@@ -1,0 +1,93 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : mainBoard.brd                                 )
+(    Software Version : 16.6-2015S115                                 )
+(    Date/Time        : Sun Nov 27 03:46:21 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U2 / AC6905A_QSOP24_AC6905A / QSOP24 at (37.53 2181.33)
+         Placed symbol:  J3 / CSP-USC16-TR_VALCON_CSP-USC16-T / VALCON_CSP-USC16-TR at (518.76 2197.21)
+         Placed symbol:  U3 / CS8326C_TSSOP16_CS8326C / TSSOP16 at (885.37 2018.00)
+         Placed symbol:  U1 / TP4056_MSOP8_TP4056 / MSOP8 at (1196.81 1968.87)
+         Placed symbol:  Q1 / MOSFET P_SOT23-PMOS_2301 / SOT23-PMOS at (1384.34 1964.93)
+         Placed symbol:  Q2 / NPN BCE_SOT23-NPN_9014 / SOT23-NPN at (1506.52 1964.93)
+         Placed symbol:  C7 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1626.11 1926.00)
+         Placed symbol:  C6 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1743.11 1926.00)
+         Placed symbol:  C10 / CP_CP_8X12_470 UF / CP_8X12 at (1972.93 2065.32)
+ERROR:   Cannot place symbol:  C8 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+         Placed symbol:  C2 / CP_CP_8X12_470 UF / CP_8X12 at (2432.57 2065.32)
+ERROR:   Cannot place symbol:  C15 / CAPACITOR NON-POL_SC0805_10 UF / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR:   Cannot place symbol:  C3 / CAPACITOR NON-POL_SC0805_10 UF / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+         Placed symbol:  C13 / CAPACITOR NON-POL_SC0805_0.15 U / SC0805 at (62.50 2268.64)
+         Placed symbol:  C12 / CAPACITOR NON-POL_SC0805_10 UF / SC0805 at (179.50 2268.64)
+         Placed symbol:  C9 / CAPACITOR NON-POL_SC0805_2.7 PF / SC0805 at (296.50 2268.64)
+         Placed symbol:  C5 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (413.50 2268.64)
+         Placed symbol:  D2 / LED_LED_D3MM_CHRG / LED_D3MM at (565.00 2337.64)
+         Placed symbol:  D3 / LED_LED_D3MM_PWR / LED_D3MM at (751.00 2337.64)
+         Placed symbol:  D4 / DIODE SCHOTTKY_SMA_SS32 / SMA at (896.55 2289.46)
+         Placed symbol:  D5 / DIODE SCHOTTKY_SMA_SS32 / SMA at (1180.14 2289.46)
+         Placed symbol:  D6 / DIODE SCHOTTKY_SMA_SS32 / SMA at (1463.73 2289.46)
+         Placed symbol:  J1 / CON2_CON-PH-2-0_BATTERY / CON-PH-2-0 at (1773.57 2276.08)
+         Placed symbol:  D1 / LED_LED_D3MM_STDBY / LED_D3MM at (1945.37 2337.64)
+ERROR:   Cannot place symbol:  C4 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+         Placed symbol:  L1 / INDUCTOR_L_0630_4.7 UH / L_0630 at (2344.37 2380.64)
+ERROR:   Cannot place symbol:  C14 / CAPACITOR NON-POL_SC0805_0.15 U / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR:   Cannot place symbol:  C1 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+ERROR:   Cannot place symbol:  R1 / R2_SR0805_2 K / SR0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+         Placed symbol:  R10 / R2_SR0805_10 K / SR0805 at (64.00 2554.14)
+         Placed symbol:  R12 / R2_SR0805_10 K / SR0805 at (184.00 2554.14)
+         Placed symbol:  R13 / R2_SR0805_10 K / SR0805 at (304.00 2554.14)
+         Placed symbol:  R14 / R2_SR0805_10 K / SR0805 at (424.00 2554.14)
+         Placed symbol:  R7 / R2_SR0805_10 K / SR0805 at (544.00 2554.14)
+         Placed symbol:  R8 / R2_SR0805_10 K / SR0805 at (664.00 2554.14)
+         Placed symbol:  R11 / R2_SR0805_56 K / SR0805 at (784.00 2554.14)
+         Placed symbol:  R9 / R2_SR0805_56 K / SR0805 at (904.00 2554.14)
+         Placed symbol:  R15 / R2_SR0805_100 K / SR0805 at (1024.00 2554.14)
+         Placed symbol:  R4 / R2_SR0805_100 K / SR0805 at (1144.00 2554.14)
+         Placed symbol:  R2 / R2_SR0805_470 / SR0805 at (1264.00 2554.14)
+         Placed symbol:  R3 / R2_SR0805_470 / SR0805 at (1384.00 2554.14)
+         Placed symbol:  R5 / R2_SR0805_100 / SR0805 at (1504.00 2554.14)
+         Placed symbol:  R6 / R2_SR0805_2.2 K / SR0805 at (1624.00 2554.14)
+         Placed symbol:  SW1 / SW TACT-SPST_KEY2P_3X6-SMT_PWR / KEY2P_3X6-SMT at (1817.93 2593.60)
+ERROR:   Cannot place symbol:  C11 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+         Placed symbol:  J2 / CON2_CON-PH-2-0_SPEAKER / CON-PH-2-0 at (2147.65 2564.08)
+ERROR:   Cannot place symbol:  ANT1 / BT_ANT_ANT_BT_ANT / ANT
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+         Placed symbol:  Y1 / CRYSTAL_M475S_2_24 MHZ / M475S_2 at (197.26 2857.84)
+
+
+Placed 39 of 48 applicable (48 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  ANT1 / BT_ANT_ANT_BT_ANT / ANT at (945.72 2803.74)
+         Placed symbol:  C1 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1032.82 2807.14)
+         Placed symbol:  C11 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1149.82 2807.14)
+         Placed symbol:  C4 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1266.82 2807.14)
+         Placed symbol:  C8 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1383.82 2807.14)
+         Placed symbol:  C15 / CAPACITOR NON-POL_SC0805_10 UF / SC0805 at (1500.82 2807.14)
+         Placed symbol:  C3 / CAPACITOR NON-POL_SC0805_10 UF / SC0805 at (1617.82 2807.14)
+         Placed symbol:  C14 / CAPACITOR NON-POL_SC0805_0.15 U / SC0805 at (1734.82 2807.14)
+         Placed symbol:  R1 / R2_SR0805_2 K / SR0805 at (1853.32 2804.64)
+
+
+Placed 9 of 9 applicable (9 total) symbols.
+
+-----------------------------------------------------------------------
+
