@@ -1,0 +1,69 @@
+\t (00:00:00) pad_designer 16.6-2015 S069 (v16-6-112FN) Windows 32
+\t (00:00:00)     Journal start - Sun Nov 27 03:38:55 2022
+\t (00:00:00)         Host=HANS-THINKPAD User=hans Pid=13328 CPUs=16
+\t (00:00:00) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\pad_designer.exe
+\t (00:00:00) 
+\i (00:00:02) setwindow form.padedit
+\i (00:00:02) pse_open C:/Users/hans/Documents/PCB/BluetoothBoard/Library/thc0d30pad0d90x0d50mm.pad 
+\i (00:00:04) FORM padedit layers  
+\i (00:00:05) FORM padedit grid row begin_layer 
+\i (00:00:06) FORM padedit grid row default_internal 
+\i (00:00:08) FORM padedit grid row begin_layer 
+\i (00:00:08) FORM padedit grid row default_internal 
+\i (00:00:10) FORM padedit grid row end_layer 
+\i (00:00:11) FORM padedit grid row begin_layer 
+\i (00:00:12) FORM padedit geometry_th Square 
+\i (00:00:14) FORM padedit geometry_th Null 
+\i (00:00:16) FORM padedit geometry_th Rectangle 
+\i (00:00:19) FORM padedit width_th 35.40 
+\i (00:00:24) FORM padedit height_th 35.40 
+\i (00:00:24) pse_save 
+\i (00:00:25) fillin yes 
+\i (00:00:26) FORM padedit grid row default_internal 
+\i (00:00:27) FORM padedit grid row begin_layer 
+\i (00:00:27) FORM padedit grid row default_internal 
+\i (00:00:29) FORM padedit geometry_th Null 
+\i (00:00:34) FORM padedit geometry_th Rectangle 
+\i (00:00:37) FORM padedit width_th 35.40 
+\i (00:00:40) FORM padedit height_th 35.40 
+\i (00:00:40) pse_save 
+\i (00:00:43) fillin yes 
+\i (00:00:44) FORM padedit grid row end_layer 
+\i (00:00:45) FORM padedit grid row begin_layer 
+\i (00:00:45) FORM padedit grid row default_internal 
+\i (00:00:46) FORM padedit grid row end_layer 
+\i (00:00:47) FORM padedit grid row default_internal 
+\i (00:00:47) FORM padedit grid row begin_layer 
+\i (00:00:48) FORM padedit grid row default_internal 
+\i (00:00:49) FORM padedit grid row end_layer 
+\i (00:00:50) FORM padedit geometry_th Null 
+\i (00:00:55) FORM padedit width_th 35.40 
+\i (00:00:59) FORM padedit height_th 35.40 
+\i (00:01:00) FORM padedit geometry_th Rectangle 
+\i (00:01:03) FORM padedit width_th 35.40 
+\i (00:01:09) FORM padedit height_th 35.40 
+\i (00:01:09) pse_save 
+\i (00:01:10) fillin yes 
+\i (00:01:13) pse_open C:/Users/hans/Documents/PCB/BluetoothBoard/Library/thc0d80c1d30mm.pad 
+\i (00:01:14) FORM padedit grid row begin_layer 
+\i (00:01:14) FORM padedit grid row default_internal 
+\i (00:01:15) FORM padedit grid row end_layer 
+\i (00:01:15) FORM padedit grid row begin_layer 
+\i (00:01:17) FORM padedit geometry_th Null 
+\i (00:01:18) FORM padedit geometry_th Rectangle 
+\i (00:01:22) FORM padedit width_th 62.99 
+\i (00:01:25) FORM padedit height_th 62.99 
+\i (00:01:25) FORM padedit grid row default_internal 
+\i (00:01:26) FORM padedit geometry_th Null 
+\i (00:01:27) FORM padedit geometry_th Rectangle 
+\i (00:01:30) FORM padedit width_th 62.99 
+\i (00:01:33) FORM padedit height_th 62.99 
+\i (00:01:33) FORM padedit grid row end_layer 
+\i (00:01:34) FORM padedit geometry_th Null 
+\i (00:01:35) FORM padedit geometry_th Rectangle 
+\i (00:01:37) FORM padedit width_th 62.99 
+\i (00:01:40) FORM padedit height_th 62.99 
+\i (00:01:40) pse_save 
+\i (00:01:41) fillin yes 
+\i (00:01:42) pse_exit
+\t (00:01:42)     Journal end - Sun Nov 27 03:40:38 2022

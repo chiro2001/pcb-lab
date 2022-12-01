@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : m475s_2.dra                                   )
+(    Software Version : 16.6-2015S108                                 )
+(    Date/Time        : Sun Nov 27 02:29:42 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/hans/Documents/PCB/BluetoothBoard/Library
+    Name      = m475s_2.psm
+    User      = hans
+    Machine   = HANS-THINKPAD
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

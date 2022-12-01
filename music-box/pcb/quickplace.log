@@ -1,0 +1,77 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : mainBoard.brd                                 )
+(    Software Version : 16.6-2015S115                                 )
+(    Date/Time        : Sun Nov 27 04:01:01 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  U2 / AC6905A_QSOP24_AC6905A / QSOP24 at (37.53 1866.33)
+         Placed symbol:  J3 / CSP-USC16-TR_VALCON_CSP-USC16-T / VALCON_CSP-USC16-TR at (518.76 1882.21)
+         Placed symbol:  U3 / CS8326C_TSSOP16_CS8326C / TSSOP16 at (885.37 1703.00)
+         Placed symbol:  U1 / TP4056_MSOP8_TP4056 / MSOP8 at (1196.81 1653.87)
+         Placed symbol:  Q1 / MOSFET P_SOT23-PMOS_2301 / SOT23-PMOS at (1384.34 1649.93)
+         Placed symbol:  Q2 / NPN BCE_SOT23-NPN_9014 / SOT23-NPN at (1506.52 1649.93)
+         Placed symbol:  C7 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1626.11 1611.00)
+         Placed symbol:  C6 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1743.11 1611.00)
+         Placed symbol:  C10 / CP_CP_8X12_470 UF / CP_8X12 at (1972.93 1750.32)
+ERROR:   Cannot place symbol:  C8 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+         due to ERROR(SPMHA1-73): Text line is outside of the extents.
+         Placed symbol:  C2 / CP_CP_8X12_470 UF / CP_8X12 at (175.32 2092.96)
+         Placed symbol:  C15 / CAPACITOR NON-POL_SC0805_10 UF / SC0805 at (405.14 1953.64)
+         Placed symbol:  C3 / CAPACITOR NON-POL_SC0805_10 UF / SC0805 at (522.14 1953.64)
+         Placed symbol:  C13 / CAPACITOR NON-POL_SC0805_0.15 U / SC0805 at (639.14 1953.64)
+         Placed symbol:  C12 / CAPACITOR NON-POL_SC0805_10 UF / SC0805 at (756.14 1953.64)
+         Placed symbol:  C9 / CAPACITOR NON-POL_SC0805_2.7 PF / SC0805 at (873.14 1953.64)
+         Placed symbol:  C5 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (990.14 1953.64)
+         Placed symbol:  D2 / LED_LED_D3MM_CHRG / LED_D3MM at (1141.64 2022.64)
+         Placed symbol:  D3 / LED_LED_D3MM_PWR / LED_D3MM at (1327.64 2022.64)
+         Placed symbol:  D4 / DIODE SCHOTTKY_SMA_SS32 / SMA at (1473.19 1974.46)
+         Placed symbol:  D5 / DIODE SCHOTTKY_SMA_SS32 / SMA at (1756.78 1974.46)
+         Placed symbol:  D6 / DIODE SCHOTTKY_SMA_SS32 / SMA at (2040.37 1974.46)
+         Placed symbol:  J1 / CON2_CON-PH-2-0_BATTERY / CON-PH-2-0 at (2350.21 1961.08)
+         Placed symbol:  D1 / LED_LED_D3MM_STDBY / LED_D3MM at (97.00 2365.28)
+         Placed symbol:  C4 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (248.50 2296.28)
+         Placed symbol:  L1 / INDUCTOR_L_0630_4.7 UH / L_0630 at (496.00 2408.28)
+         Placed symbol:  C14 / CAPACITOR NON-POL_SC0805_0.15 U / SC0805 at (738.50 2296.28)
+         Placed symbol:  C1 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (855.50 2296.28)
+         Placed symbol:  R1 / R2_SR0805_2 K / SR0805 at (974.00 2293.78)
+         Placed symbol:  R10 / R2_SR0805_10 K / SR0805 at (1094.00 2293.78)
+         Placed symbol:  R12 / R2_SR0805_10 K / SR0805 at (1214.00 2293.78)
+         Placed symbol:  R13 / R2_SR0805_10 K / SR0805 at (1334.00 2293.78)
+         Placed symbol:  R14 / R2_SR0805_10 K / SR0805 at (1454.00 2293.78)
+         Placed symbol:  R7 / R2_SR0805_10 K / SR0805 at (1574.00 2293.78)
+         Placed symbol:  R8 / R2_SR0805_10 K / SR0805 at (1694.00 2293.78)
+         Placed symbol:  R11 / R2_SR0805_56 K / SR0805 at (1814.00 2293.78)
+         Placed symbol:  R9 / R2_SR0805_56 K / SR0805 at (1934.00 2293.78)
+         Placed symbol:  R15 / R2_SR0805_100 K / SR0805 at (2054.00 2293.78)
+         Placed symbol:  R4 / R2_SR0805_100 K / SR0805 at (2174.00 2293.78)
+         Placed symbol:  R2 / R2_SR0805_470 / SR0805 at (2294.00 2293.78)
+         Placed symbol:  R3 / R2_SR0805_470 / SR0805 at (2414.00 2293.78)
+         Placed symbol:  R5 / R2_SR0805_100 / SR0805 at (64.00 2581.78)
+         Placed symbol:  R6 / R2_SR0805_2.2 K / SR0805 at (184.00 2581.78)
+         Placed symbol:  SW1 / SW TACT-SPST_KEY2P_3X6-SMT_PWR / KEY2P_3X6-SMT at (377.93 2621.24)
+         Placed symbol:  C11 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (570.35 2584.28)
+         Placed symbol:  J2 / CON2_CON-PH-2-0_SPEAKER / CON-PH-2-0 at (707.65 2591.72)
+         Placed symbol:  ANT1 / BT_ANT_ANT_BT_ANT / ANT at (1341.65 2580.88)
+         Placed symbol:  Y1 / CRYSTAL_M475S_2_24 MHZ / M475S_2 at (1563.51 2634.98)
+
+
+Placed 47 of 48 applicable (48 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  C8 / CAPACITOR NON-POL_SC0805_1 UF / SC0805 at (1815.27 2584.28)
+
+
+Placed 1 of 1 applicable (1 total) symbols.
+
+-----------------------------------------------------------------------
+

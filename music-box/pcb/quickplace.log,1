@@ -1,0 +1,67 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : mainBoard.brd                                 )
+(    Software Version : 16.6-2015S115                                 )
+(    Date/Time        : Sun Nov 27 03:43:14 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+ERROR:   Could not find symbol:  U2 / AC6905A_QSOP24_AC6905A / QSOP24
+ERROR:   Could not find symbol:  J3 / CSP-USC16-TR_VALCON_CSP-USC16-T / VALCON_CSP-USC16-TR
+         Placed symbol:  U3 / CS8326C_TSSOP16_CS8326C / TSSOP16 at (167.00 2018.00)
+ERROR:   Could not find symbol:  U1 / TP4056_MSOP8_TP4056 / MSOP8
+ERROR:   Could not find symbol:  Q1 / MOSFET P_SOT23-PMOS_2301 / SOT23-PMOS
+ERROR:   Could not find symbol:  Q2 / NPN BCE_SOT23-NPN_9014 / SOT23-NPN
+ERROR:   Could not find symbol:  C7 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+ERROR:   Could not find symbol:  C6 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+ERROR:   Could not find symbol:  C10 / CP_CP_8X12_470 UF / CP_8X12
+ERROR:   Could not find symbol:  C8 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+ERROR:   Could not find symbol:  C2 / CP_CP_8X12_470 UF / CP_8X12
+ERROR:   Could not find symbol:  C15 / CAPACITOR NON-POL_SC0805_10 UF / SC0805
+ERROR:   Could not find symbol:  C3 / CAPACITOR NON-POL_SC0805_10 UF / SC0805
+ERROR:   Could not find symbol:  C13 / CAPACITOR NON-POL_SC0805_0.15 U / SC0805
+ERROR:   Could not find symbol:  C12 / CAPACITOR NON-POL_SC0805_10 UF / SC0805
+ERROR:   Could not find symbol:  C9 / CAPACITOR NON-POL_SC0805_2.7 PF / SC0805
+ERROR:   Could not find symbol:  C5 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+ERROR:   Could not find symbol:  D2 / LED_LED_D3MM_CHRG / LED_D3MM
+ERROR:   Could not find symbol:  D3 / LED_LED_D3MM_PWR / LED_D3MM
+ERROR:   Could not find symbol:  D4 / DIODE SCHOTTKY_SMA_SS32 / SMA
+ERROR:   Could not find symbol:  D5 / DIODE SCHOTTKY_SMA_SS32 / SMA
+ERROR:   Could not find symbol:  D6 / DIODE SCHOTTKY_SMA_SS32 / SMA
+ERROR:   Could not find symbol:  J1 / CON2_CON-PH-2-0_BATTERY / CON-PH-2-0
+ERROR:   Could not find symbol:  D1 / LED_LED_D3MM_STDBY / LED_D3MM
+ERROR:   Could not find symbol:  C4 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+ERROR:   Could not find symbol:  L1 / INDUCTOR_L_0630_4.7 UH / L_0630
+ERROR:   Could not find symbol:  C14 / CAPACITOR NON-POL_SC0805_0.15 U / SC0805
+ERROR:   Could not find symbol:  C1 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+ERROR:   Could not find symbol:  R1 / R2_SR0805_2 K / SR0805
+ERROR:   Could not find symbol:  R10 / R2_SR0805_10 K / SR0805
+ERROR:   Could not find symbol:  R12 / R2_SR0805_10 K / SR0805
+ERROR:   Could not find symbol:  R13 / R2_SR0805_10 K / SR0805
+ERROR:   Could not find symbol:  R14 / R2_SR0805_10 K / SR0805
+ERROR:   Could not find symbol:  R7 / R2_SR0805_10 K / SR0805
+ERROR:   Could not find symbol:  R8 / R2_SR0805_10 K / SR0805
+ERROR:   Could not find symbol:  R11 / R2_SR0805_56 K / SR0805
+ERROR:   Could not find symbol:  R9 / R2_SR0805_56 K / SR0805
+ERROR:   Could not find symbol:  R15 / R2_SR0805_100 K / SR0805
+ERROR:   Could not find symbol:  R4 / R2_SR0805_100 K / SR0805
+ERROR:   Could not find symbol:  R2 / R2_SR0805_470 / SR0805
+ERROR:   Could not find symbol:  R3 / R2_SR0805_470 / SR0805
+ERROR:   Could not find symbol:  R5 / R2_SR0805_100 / SR0805
+ERROR:   Could not find symbol:  R6 / R2_SR0805_2.2 K / SR0805
+ERROR:   Could not find symbol:  SW1 / SW TACT-SPST_KEY2P_3X6-SMT_PWR / KEY2P_3X6-SMT
+ERROR:   Could not find symbol:  C11 / CAPACITOR NON-POL_SC0805_1 UF / SC0805
+ERROR:   Could not find symbol:  J2 / CON2_CON-PH-2-0_SPEAKER / CON-PH-2-0
+ERROR:   Could not find symbol:  ANT1 / BT_ANT_ANT_BT_ANT / ANT
+ERROR:   Could not find symbol:  Y1 / CRYSTAL_M475S_2_24 MHZ / M475S_2
+
+
+Placed 1 of 48 applicable (48 total) symbols.
+
+-----------------------------------------------------------------------
+

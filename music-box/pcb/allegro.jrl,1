@@ -1,0 +1,798 @@
+\t (00:00:07) allegro 16.6-2015 S115 (v16-6-112JF) Windows 32
+\t (00:00:07)     Journal start - Wed Nov 30 21:48:32 2022
+\t (00:00:07)         Host=HANS-THINKPAD User=hans Pid=29384 CPUs=16
+\t (00:00:07) CmdLine= D:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (00:00:07) 
+\e (00:00:18) Retrieval of 'Allegro_studio' license failed: 'ERROR (LMF-13015): License call failed for feature PCB_design_studio. The license server search path is defined as D:\Cadence\LicenseManager\license.dat. The FLEXnet error message is as follows,
+    FLEXnet ERROR(-15, 234, 10061): Cannot connect to license server system.
+
+Run 'lic_error LMF-13015' for more information.'. Report the licenses in use log via the menu item File->Viewlog: license_use.log
+\i (00:00:26) fillin confirm
+\i (00:01:04) fillin Allegro_performance    
+\t (00:01:04) Opening existing design...
+\d (00:01:04) Design opened: C:/Users/hans/Documents/PCB/BluetoothBoard/mainBoard.brd
+\i (00:01:05) trapsize 1290
+\i (00:01:05) trapsize 1267
+\i (00:01:05) trapsize 1294
+\i (00:01:05) trapsize 1724
+\i (00:01:05) trapsize 1724
+\i (00:01:06) generaledit 
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 1840.55 1261.22
+\i (00:01:56) trapsize 3448
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 3537.09 1633.64
+\i (00:01:56) trapsize 1724
+\i (00:01:56) zoom out 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom out 3537.10 1633.64
+\i (00:01:56) trapsize 3448
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 619.85 1530.19
+\i (00:01:56) trapsize 1724
+\i (00:01:56) zoom in 1 
+\i (00:01:56) setwindow pcb
+\i (00:01:56) zoom in 619.85 1530.20
+\i (00:01:56) trapsize 862
+\i (00:01:57) zoom out 1 
+\i (00:01:57) setwindow pcb
+\i (00:01:57) zoom out 788.82 1609.51
+\i (00:01:57) trapsize 1724
+\i (00:01:58) xhilite 
+\i (00:01:58) xrefdes U3 
+\i (00:01:58) xname_flush 
+\i (00:01:58) trapsize 370
+\t (00:01:58) Symbol "U3" highlighted.
+\i (00:01:58) done 
+\i (00:01:58) generaledit 
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 1436.09 307.61
+\i (00:01:59) trapsize 740
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 1436.09 307.61
+\i (00:01:59) trapsize 1480
+\i (00:02:00) pick grid 2250.33 458.61
+\t (00:02:00) last pick:  2250.00 459.00
+\i (00:02:01) xdehilite 
+\i (00:02:01) xrefdes U3 
+\i (00:02:01) xname_flush 
+\t (00:02:01) Symbol "U3" dehighlighted.
+\i (00:02:01) done 
+\i (00:02:01) generaledit 
+\i (00:02:02) pick grid 2451.67 550.39
+\t (00:02:02) last pick:  2452.00 550.00
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 1169.61 731.01
+\i (00:02:02) trapsize 2961
+\i (00:02:02) zoom out 1 
+\i (00:02:02) setwindow pcb
+\i (00:02:02) zoom out 1447.26 1707.81
+\i (00:02:02) trapsize 5922
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 647.82 1038.66
+\i (00:02:03) trapsize 2961
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 375.42 837.32
+\i (00:02:03) trapsize 1480
+\i (00:02:03) zoom in 1 
+\i (00:02:03) setwindow pcb
+\i (00:02:03) zoom in 372.46 834.36
+\i (00:02:03) trapsize 740
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 723.32 1025.34
+\i (00:02:04) trapsize 1480
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 723.33 1025.33
+\i (00:02:04) trapsize 2961
+\i (00:02:04) zoom out 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom out 1103.79 1025.33
+\i (00:02:04) trapsize 5922
+\i (00:02:04) zoom in 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom in 2874.40 2140.10
+\i (00:02:04) trapsize 2961
+\i (00:02:04) zoom in 1 
+\i (00:02:04) setwindow pcb
+\i (00:02:04) zoom in 2803.34 2069.04
+\i (00:02:04) trapsize 1480
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 3762.67 2468.76
+\i (00:02:05) trapsize 2961
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 3762.67 2468.76
+\i (00:02:05) trapsize 5922
+\i (00:02:05) zoom out 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom out 6569.59 3596.86
+\i (00:02:05) trapsize 6897
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -166.36 26.74
+\i (00:02:05) trapsize 3448
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -166.36 26.74
+\i (00:02:05) trapsize 1724
+\i (00:02:05) zoom in 1 
+\i (00:02:05) setwindow pcb
+\i (00:02:05) zoom in -166.36 26.74
+\i (00:02:05) trapsize 862
+\i (00:02:06) zoom out 1 
+\i (00:02:06) setwindow pcb
+\i (00:02:06) zoom out 504.34 450.88
+\i (00:02:06) trapsize 1724
+\i (00:02:07) drag_start grid 2316.40 275.02
+\i (00:02:08) drag_stop 319.85 1188.82
+\i (00:02:09) pick grid 2171.57 637.09
+\t (00:02:09) last pick:  2172.00 637.00
+\i (00:02:10) zoom in 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom in 2099.16 806.06
+\i (00:02:10) trapsize 862
+\i (00:02:10) zoom out 1 
+\i (00:02:10) setwindow pcb
+\i (00:02:10) zoom out 2185.36 902.61
+\i (00:02:10) trapsize 1724
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 1799.16 902.61
+\i (00:02:45) trapsize 3448
+\i (00:02:45) zoom out 1 
+\i (00:02:45) setwindow pcb
+\i (00:02:45) zoom out 4302.61 2433.64
+\i (00:02:45) trapsize 6897
+\i (00:02:46) zoom in 1 
+\i (00:02:46) setwindow pcb
+\i (00:02:46) zoom in 909.50 1654.33
+\i (00:02:46) trapsize 3448
+\i (00:02:46) pick grid 357.78 2185.37
+\t (00:02:46) last pick:  358.00 2185.00
+\i (00:02:47) prepopup 475.02 2426.75
+\i (00:02:47) pick grid 764.67 2709.51
+\t (00:02:47) last pick:  765.00 2710.00
+\i (00:02:47) zoom out 1 
+\i (00:02:47) setwindow pcb
+\i (00:02:47) zoom out 1371.57 2357.78
+\i (00:02:47) trapsize 6897
+\i (00:02:48) drag_start grid -469.81 3254.33
+\i (00:02:49) drag_stop 3888.81 -649.12
+\i (00:02:49) prepopup 1971.57 371.57
+\i (00:02:51) pick grid 1502.60 840.53
+\t (00:02:51) last pick:  1503.00 841.00
+\i (00:02:51) prepopup 1502.60 840.53
+\i (00:02:51) pick grid 261.22 3364.67
+\t (00:02:51) last pick:  261.00 3365.00
+\i (00:02:52) drag_start grid -262.91 3143.98
+\i (00:02:52) drag_stop 3971.57 -593.95
+\e (00:02:52) Command not found: Del
+\i (00:02:55) delete 
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Y1.2 (N06530)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N06530, U2.23:Y1.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Y1.1 (N06521)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N06521, U2.24:Y1.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.1 (Button_Signal)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Button_Signal, U2.1:R8.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.24 (N06521)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R8.2 (Button_Signal)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R8.1 (N08299)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N08299, R10.2:R8.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.2 (Power_Up)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.3 (Usb_Dm)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.4 (Usb_Dp)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dm, U2.3:J3.A7"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Power_Up, U2.2:R7.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dp, U2.4:J3.B6"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.21 (Bt_Ant)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.22 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.23 (N06530)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Bt_Ant, U2.21:C9.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N05004, R13.1:R14.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R14.1 (N05004)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R14.2 (Dac_R)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Dac_R, R14.2:U2.6"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Dac_L, R13.2:U2.7"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.5 (Led)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.6 (Dac_R)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.7 (Dac_L)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.8 (N06693)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N06693, U2.8:C5.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Led, U2.5:R5.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.17 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.18 (Vmcu)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.19 (N07568)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.20 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Vmcu, C6.1:U2.18"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N07568, U2.19:C1.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C9.2 (N15505)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C9.1 (Bt_Ant)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N05004, R15.1:R13.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C5.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R13.1 (N05004)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R13.2 (Dac_L)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C5.2 (N06693)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N06765, U2.9:C7.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.9 (N06765)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.10 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.11 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.14 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.15 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.16 (Amp_Sd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Amp_Sd, R6.1:U2.16"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C1.1 (N07568)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C1.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N15505, C9.2:Ant1.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Thru Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Ant1.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Ant1."
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Ant1.2 (N15505)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C7.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C7.2 (N06765)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Amp_Abd, C8.2:U2.12"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.12 (Amp_Abd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U2.13 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C6.1 (Vmcu)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C6.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C8.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C8.2 (Amp_Abd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Vmcu, C6.1:Q1.3"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N08299, Sw1.1:R10.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R10.2 (N08299)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Sw1.1 (N08299)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Package_Top, Package To Place Keepin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N05004, C14.1:R15.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R15.1 (N05004)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Amp_Abd, U3.14:C8.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R5.2 (Led)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N116950, R5.1:D3.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R5.1 (N116950)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Amp_Sd, U3.13:R6.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R6.1 (Amp_Sd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R6.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "L1.2 (N02995)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N08455, R10.1:Q2.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N08455, R10.1:R12.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R10.1 (N08455)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C14.1 (N05004)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R15.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D4.1 (N02995)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D5.1 (N02995)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D6.1 (N02995)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N02995, D6.1:L1.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, L1.1:Sw1.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Sw1.2 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C14.2 (N04850)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N04850, R11.1:C14.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N02995, D5.1:D4.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N02995, D4.1:U3.6"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N02995, D6.1:D5.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D3.2 (N116950)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Package_Top, Package To Place Keepin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N08455, R12.1:R7.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R12.1 (N08455)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N04560, R9.1:C13.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C13.2 (N04560)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R9.1 (N04560)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R11.1 (N04850)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D4.2 (Pvdd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D5.2 (Pvdd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D6.2 (Pvdd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "L1.1 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D3.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R12.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C13.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Amp_Inn, U3.16:R9.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R9.2 (Amp_Inn)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Amp_Inp, U3.15:R11.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R11.2 (Amp_Inp)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, U3.9:D4.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, D4.2:D5.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, D5.2:D6.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, C2.1:L1.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Package_Top, Package To Place Keepin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.16 (Amp_Inn)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.15 (Amp_Inp)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.14 (Amp_Abd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.13 (Amp_Sd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.12 (Outp)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.11 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.10 (Outn)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.9 (Pvdd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C4.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, C3.1:C4.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C4.1 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, D2.2:D1.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D1.2 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Outp, J2.1:U3.12"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Outn, J2.2:U3.10"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, C11.2:U3.9"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C3.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, C2.1:C3.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, C3.1:U3.3"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C3.1 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C2.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C2.1 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, C2.1:R4.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Led_Stdby, U1.6:R2.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R2.2 (Led_Stdby)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N011291, D1.1:R2.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R2.1 (N011291)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D1.1 (N011291)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R7.1 (N08455)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D2.2 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Drc Error "Package_Top, Package To Place Keepin Spacing"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R7.2 (Power_Up)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, U3.3:U3.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.3 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.2 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N02995, U3.6:U3.5"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.7 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.6 (N02995)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.5 (N02995)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.4 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U3.8 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Q2.1 (N08455)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R3.2 (Led_Chrg)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R3.1 (N011451)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.A9:D2.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "D2.1 (N011451)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C11.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C11.2 (Pvdd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C10.1 (Pvdd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Q2.2 (N08674)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Q2.3 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Led_Chrg, U1.7:R3.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N011451, D2.1:R3.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J2.2 (Outn)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C12.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, C11.2:C12.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, C10.1:C11.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C12.2 (Pvdd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N08674, Q1.1:Q2.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N08674, Q2.2:R4.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C15.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R4.2 (N08674)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.S2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.S4 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J2.1 (Outp)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C10.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.A9:C15.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, C15.1:U1.8"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "C15.1 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, R4.1:U1.5"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R4.1 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B5 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B4 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A9 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A8 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A12 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.B4:J3.A9"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.B9:J3.B4"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "J3."
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, U1.5:Q1.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.8 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.7 (Led_Chrg)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.6 (Led_Stdby)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Batt, U1.5:J1.1"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.5 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B7 (Usb_Dm)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B6 (Usb_Dp)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A7 (Usb_Dm)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A6 (Usb_Dp)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dm, J3.A7:J3.B7"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dp, J3.B6:J3.A6"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Q1.1 (N08674)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, U1.4:J3.A4"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B9 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B8 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.B12 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A5 (Dummy Net)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A4 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.A4:J3.B9"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "J3."
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Q1.3 (Vmcu)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "Q1.2 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Ratsnest "N00539, U1.2:R1.2"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.3 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.2 (N00539)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "U1.4 (Usb_V)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.A1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.S1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J3.S3 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R1.2 (N00539)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "R1.1 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J1.2 (Gnd)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Pin "J1.1 (Batt)"
+\t (00:02:55) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\i (00:02:56) generaledit 
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 578.47 385.36
+\i (00:02:57) trapsize 3448
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 971.58 792.26
+\i (00:02:57) trapsize 1724
+\i (00:02:57) zoom in 1 
+\i (00:02:57) setwindow pcb
+\i (00:02:57) zoom in 971.58 792.26
+\i (00:02:57) trapsize 862
+\i (00:02:58) pick grid 1383.65 830.20
+\t (00:02:58) last pick:  1384.00 830.00
+\i (00:02:59) zoom out 1 
+\i (00:02:59) setwindow pcb
+\i (00:02:59) zoom out 1383.65 830.20
+\i (00:02:59) trapsize 1724
+\i (00:03:00) drag_start grid 394.01 1961.23
+\i (00:03:00) drag_stop 1400.90 950.89
+\i (00:03:00) prepopup 818.14 1368.13
+\i (00:03:01) pick grid 676.77 447.44
+\t (00:03:01) last pick:  677.00 447.00
+\i (00:03:04) zoom out 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom out 631.94 650.89
+\i (00:03:04) trapsize 3448
+\i (00:03:04) zoom out 1 
+\i (00:03:04) setwindow pcb
+\i (00:03:04) zoom out 618.14 657.78
+\i (00:03:04) trapsize 6897
+\i (00:03:05) zoom out 1 
+\i (00:03:05) setwindow pcb
+\i (00:03:05) zoom out 716.40 2495.71
+\i (00:03:05) trapsize 6897
+\i (00:03:05) zoom in 1 
+\i (00:03:05) setwindow pcb
+\i (00:03:05) zoom in 716.40 2495.71
+\i (00:03:05) trapsize 3448
+\i (00:03:06) zoom out 1 
+\i (00:03:06) setwindow pcb
+\i (00:03:06) zoom out 716.40 2495.71
+\i (00:03:06) trapsize 6897
+\i (00:03:07) pick grid -193.95 2454.33
+\t (00:03:07) last pick:  -194.00 2454.00
+\i (00:03:07) drag_start grid -249.12 2909.50
+\i (00:03:07) drag_stop 3861.22 -552.57
+\i (00:03:10) delete 
+\t (00:03:10) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:03:10) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:03:10) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:10) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:10) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:10) Selected item not valid for current operation, ignored: Pin "Y1.2 (N06530)"
+\t (00:03:10) Selected item not valid for current operation, ignored: Ratsnest "N06530, U2.23:Y1.2"
+\t (00:03:10) Selected item not valid for current operation, ignored: Pin "Y1.1 (N06521)"
+\t (00:03:10) Selected item not valid for current operation, ignored: Ratsnest "N06521, U2.24:Y1.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.1 (Button_Signal)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Button_Signal, U2.1:R8.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.24 (N06521)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R8.2 (Button_Signal)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R8.1 (N08299)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N08299, R10.2:R8.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.2 (Power_Up)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.3 (Usb_Dm)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.4 (Usb_Dp)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dm, U2.3:J3.A7"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Power_Up, U2.2:R7.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dp, U2.4:J3.B6"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.21 (Bt_Ant)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.22 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.23 (N06530)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Bt_Ant, U2.21:C9.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N05004, R13.1:R14.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R14.1 (N05004)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R14.2 (Dac_R)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Dac_R, R14.2:U2.6"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Dac_L, R13.2:U2.7"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.5 (Led)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.6 (Dac_R)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.7 (Dac_L)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.8 (N06693)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N06693, U2.8:C5.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Led, U2.5:R5.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.17 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.18 (Vmcu)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.19 (N07568)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.20 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Vmcu, C6.1:U2.18"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N07568, U2.19:C1.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C9.2 (N15505)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C9.1 (Bt_Ant)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N05004, R15.1:R13.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C5.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R13.1 (N05004)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R13.2 (Dac_L)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C5.2 (N06693)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N06765, U2.9:C7.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.9 (N06765)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.10 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.11 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.14 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.15 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.16 (Amp_Sd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Amp_Sd, R6.1:U2.16"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C1.1 (N07568)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C1.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N15505, C9.2:Ant1.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Thru Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Ant1.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Ant."
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Ant1.2 (N15505)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Drc Error "Top, Smd Pin To Smd Pin Spacing"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C7.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C7.2 (N06765)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Amp_Abd, C8.2:U2.12"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.12 (Amp_Abd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U2.13 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C6.1 (Vmcu)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C6.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C8.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C8.2 (Amp_Abd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Vmcu, C6.1:Q1.3"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N08299, Sw1.1:R10.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R10.2 (N08299)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Sw1.1 (N08299)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N05004, C14.1:R15.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R15.1 (N05004)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Amp_Abd, U3.14:C8.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R5.2 (Led)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N116950, R5.1:D3.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R5.1 (N116950)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Amp_Sd, U3.13:R6.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R6.1 (Amp_Sd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R6.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "L1.2 (N02995)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N08455, R10.1:Q2.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N08455, R10.1:R12.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R10.1 (N08455)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C14.1 (N05004)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R15.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D4.1 (N02995)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D5.1 (N02995)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D6.1 (N02995)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N02995, D6.1:L1.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, L1.1:Sw1.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Sw1.2 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C14.2 (N04850)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N04850, R11.1:C14.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N02995, D5.1:D4.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N02995, D4.1:U3.6"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N02995, D6.1:D5.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D3.2 (N116950)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N08455, R12.1:R7.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R12.1 (N08455)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N04560, R9.1:C13.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C13.2 (N04560)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R9.1 (N04560)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R11.1 (N04850)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D4.2 (Pvdd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D5.2 (Pvdd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D6.2 (Pvdd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "L1.1 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D3.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R12.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C13.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Amp_Inn, U3.16:R9.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R9.2 (Amp_Inn)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Amp_Inp, U3.15:R11.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R11.2 (Amp_Inp)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, U3.9:D4.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, D4.2:D5.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, D5.2:D6.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, C2.1:L1.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.16 (Amp_Inn)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.15 (Amp_Inp)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.14 (Amp_Abd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.13 (Amp_Sd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.12 (Outp)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.11 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.10 (Outn)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.9 (Pvdd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C4.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, C3.1:C4.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C4.1 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, D2.2:D1.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D1.2 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Outp, J2.1:U3.12"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Outn, J2.2:U3.10"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, C11.2:U3.9"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C3.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, C2.1:C3.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, C3.1:U3.3"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C3.1 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C2.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C2.1 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, C2.1:R4.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Led_Stdby, U1.6:R2.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R2.2 (Led_Stdby)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N011291, D1.1:R2.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R2.1 (N011291)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D1.1 (N011291)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R7.1 (N08455)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D2.2 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R7.2 (Power_Up)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, U3.3:U3.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.3 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.2 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N02995, U3.6:U3.5"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.7 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.6 (N02995)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.5 (N02995)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.4 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U3.8 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Q2.1 (N08455)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R3.2 (Led_Chrg)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R3.1 (N011451)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.A9:D2.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "D2.1 (N011451)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C11.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C11.2 (Pvdd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C10.1 (Pvdd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Q2.2 (N08674)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Q2.3 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Led_Chrg, U1.7:R3.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N011451, D2.1:R3.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J2.2 (Outn)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C12.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, C11.2:C12.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Pvdd, C10.1:C11.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C12.2 (Pvdd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N08674, Q1.1:Q2.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N08674, Q2.2:R4.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C15.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R4.2 (N08674)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.S2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.S4 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J2.1 (Outp)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C10.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.A9:C15.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, C15.1:U1.8"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "C15.1 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, R4.1:U1.5"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R4.1 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B5 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B4 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A9 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A8 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A12 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.B4:J3.A9"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.B9:J3.B4"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Valcon_Csp-usc16-tr."
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, U1.5:Q1.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.8 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.7 (Led_Chrg)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.6 (Led_Stdby)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Batt, U1.5:J1.1"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.5 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B7 (Usb_Dm)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B6 (Usb_Dp)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A7 (Usb_Dm)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A6 (Usb_Dp)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dm, J3.A7:J3.B7"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_Dp, J3.B6:J3.A6"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Q1.1 (N08674)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, U1.4:J3.A4"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B9 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B8 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.B12 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A5 (Dummy Net)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A4 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "Usb_V, J3.A4:J3.B9"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Valcon_Csp-usc16-tr."
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Q1.3 (Vmcu)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "Q1.2 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Ratsnest "N00539, U1.2:R1.2"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.3 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.2 (N00539)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "U1.4 (Usb_V)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.A1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.S1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J3.S3 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R1.2 (N00539)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "R1.1 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J1.2 (Gnd)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Pin "J1.1 (Batt)"
+\t (00:03:11) Selected item not valid for current operation, ignored: Mechanical Pin "Mtg125."
+\t (00:03:11) No valid items selected for the current operation, exiting.
+\i (00:03:11) generaledit 
+\i (00:03:13) undo 
+\i (00:03:13) trapsize 6897
+\i (00:03:13) generaledit 
+\i (00:03:14) undo 
+\i (00:03:14) trapsize 6897
+\i (00:03:14) generaledit 
+\i (00:03:16) pick grid 799.15 3130.19
+\t (00:03:16) last pick:  799.00 3130.00
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in -69.81 1075.02
+\i (00:03:16) trapsize 3448
+\i (00:03:16) zoom in 1 
+\i (00:03:16) setwindow pcb
+\i (00:03:16) zoom in -69.81 1075.02
+\i (00:03:16) trapsize 1724
+\i (00:03:17) zoom in 1 
+\i (00:03:17) setwindow pcb
+\i (00:03:17) zoom in 168.12 1157.78
+\i (00:03:17) trapsize 862
+\i (00:03:18) pick grid 25.02 1197.43
+\t (00:03:18) last pick:  25.00 1197.00
+\i (00:03:18) pick grid 11.23 1192.26
+\t (00:03:18) last pick:  11.00 1192.00
+\i (00:03:18) pick grid 92.26 1226.74
+\t (00:03:18) last pick:  92.00 1227.00
+\i (00:03:19) zoom out 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom out 92.26 1226.74
+\i (00:03:19) trapsize 1724
+\i (00:03:19) zoom out 1 
+\i (00:03:19) setwindow pcb
+\i (00:03:19) zoom out 92.26 1226.75
+\i (00:03:19) trapsize 3448
+\i (00:03:29) exit 
+\e (00:03:29) Do you want to save the changes you made to mainBoard.brd?
+\i (00:03:30) fillin no 
+\t (00:03:30)     Journal end - Wed Nov 30 21:51:55 2022
